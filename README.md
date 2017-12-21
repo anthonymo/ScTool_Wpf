@@ -23,7 +23,7 @@ This tool have two features
 Copy the source code or directly write on our code editor. The avm、abi、map files will on the server if compile sucessfully.
 Everyone can check the files.
 
-This compiler use remote api,so we can develop a web tool to compile c# code. 
+This compiler use remote api, we can develop a web tool to compile c# code. 
 
 ![](image/pic2.png)
 We develop a sample.
