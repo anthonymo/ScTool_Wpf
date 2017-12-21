@@ -19,7 +19,8 @@ This tool have two features
 1. C# online compiler
 
 ![](image/pic1.png)
-Copy the source code or directly write on our code editor. The avm、abi、map fiel will on the server if compile sucessfully.
+
+Copy the source code or directly write on our code editor. The avm、abi、map files will on the server if compile sucessfully.
 Everyone can check the files.
 
 This compiler use remote api,so we can develop a web tool to compile c# code. 
