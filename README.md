@@ -19,7 +19,7 @@ These tools have two features
 
 ![](image/pic1.png)
 
-Copy the source code or directly write your code on the client code editor. The avm, abi, map files will upload to the server if compile sucessfully.
+Copy the source code or directly write your code on the client code editor and then press the button "build scirpt". The avm, abi, map files will upload to the server if compile sucessfully.
 
 Everyone can check the files.
 
