@@ -7,10 +7,9 @@ One module is called RemoteSharpContractBuilder which temporarily embedded in th
 
 Another server module is neo-cli node which temporarily embedded in the neo-gui-nel project
 
-We currently just deployed the API for testnet. The current server is for development and will change quite frequent, we recommend  deploying your own server if you like the tools.
+We currently just deployed the API for testnet. The current server is for development and will change quite frequently, we recommend  deploying your own server if you found these tools useful.
 
-We use the client/server design because there are many requests for NEO smart contract Web development tools.
-The APIs are all ready for the web development tools.
+We use client/server design because there are many requests for NEO smart contract Web development tools. The APIs are all ready for the web development tools.
 
 ## Features
 
@@ -20,7 +19,7 @@ These tools have two features
 
 ![](image/pic1.png)
 
-Copy the source code or directly write on the client code editor. The avm、abi、map files will upload to the server if compile sucessfully.
+Copy the source code or directly write your code on the client code editor. The avm, abi, map files will upload to the server if compile sucessfully.
 
 Everyone can check the files.
 
