@@ -3,9 +3,9 @@
 ScTool is the short form of SmartContract Tools, it is a toolchain for NEO contract development.
 They are all open sources with two servers and one client modules. 
 
-One module is called RemoteSharpContractBuilder which temporarily embedded in the SmartContractBrowser project.
+One module is called RemoteSharpContractBuilder, you can find it in "SmartContractBrowser" project for compiling c# smart contract to avm.
 
-Another server module is neo-cli node which temporarily embedded in the neo-gui-nel project
+Another server module is a special version of neo-cli node, you can find it in "neo-gui-nel" project for debugging smartcontract.
 
 We currently just deployed the API for testnet. The current server is for development and will change quite frequently, we recommend  deploying your own server if you found these tools useful.
 
