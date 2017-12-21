@@ -29,28 +29,24 @@ This compiler use remote api, we can develop a web tool to compile c# code.
 
 We have developed a sample.
 
-We will eventually develop a complete web development tools for oNO smart contract.
+We will eventually develop a complete web development tools for Neo smart contract.
 
 2. Smart Contract debugging tool
 
-Another function is to check the detail of teh invoked transaction.
+Another function is to check the detail of the invoked transaction.
 ![](image/pic3.png)
 
-The diagram show that we send a transaction.
+The diagram show that our transaction.
 
 ![](image/pic4.png)
 
-We can check the execution details by entering the transaction txid. 
-YOu can download the source code if it is written by our online editor.
+We can check the execution details by entering the transaction txid. You can download the source code if it is written by our online editor.
 
-
-It contain all information you want. The value of execution stack and run-time stack. What Syscall have been used.
-And of course Notify Log.
+It contain all information you want including the values of execution stack and run-time stack, the Syscall have been used. And of course Notify Log.
 
 3. Other Possibilties
 
-In fact you can use this tool to develop feature crawler, collect the unkown from NEO Blockchain.
-We can accuratly examine every transaction based on the real time execution of transactions.
+In fact you can use this tool to develop different feature crawler to collect the unknown from NEO Blockchain. We can accurately examine every transactions based on the real time executions on the network.
 
 
 ## How to use
