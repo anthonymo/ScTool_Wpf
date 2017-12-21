@@ -1,7 +1,7 @@
 # ScTool_Wpf
 
 ScTool is the short form of SmartContract Tools, it is a toolchain for NEO contract development.
-They are all open source that include two server and one client modules. 
+They are all open source including two server and one client modules. 
 
 One module is called RemoteSharpContractBuilder which temporarily embedded in the SmartContractBrowser project.
 
