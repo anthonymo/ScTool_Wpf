@@ -26,7 +26,8 @@ Everyone can check the files.
 This compiler use remote api, we can develop a web tool to compile c# code. 
 
 ![](image/pic2.png)
-We develop a sample.
+
+We have developed a sample.
 
 We will eventually develop a complete web development tools.
 
