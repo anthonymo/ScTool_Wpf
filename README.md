@@ -14,9 +14,9 @@ The API are all ready for the web development tools.
 
 ## Features
 
-This tools have two features
+This tool have two features
 
-1.C# online compiler
+1. C# online compiler
 
 ![](image/pic1.png)
 Copy the source code or directly write on our code editor. The avm、abi、map fiel will on the server if compile sucessfully.
