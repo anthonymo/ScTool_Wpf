@@ -10,7 +10,7 @@ Another server module is neo cli node which temporarily embedded in the neo-gui-
 We currently just deployed the API for testnet. The server is for development and will change quite frequent, we recommend you deploy your own server if you like the tools.
 
 We use the client/server design because there ae many requests for NEO smart contract Web development tools.
-The API are all ready for the web development tools.
+The APIs are all ready for the web development tools.
 
 ## Features
 
