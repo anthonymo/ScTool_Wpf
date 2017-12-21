@@ -27,13 +27,15 @@ This compiler use remote api,so we can develop a web tool to compile c# code.
 ![](image/pic2.png)
 We develop a sample.
 
-We wil eventually develop a complete web development tools.
+We will eventually develop a complete web development tools.
 
 2. Smart Contract debugging tool
 
 Another function is to check the detail of teh invoked transaction.
 ![](image/pic3.png)
+
 The diagram show that we send a transaction.
+
 ![](image/pic4.png)
 
 We can check the execution details by entering the transaction txid. 
