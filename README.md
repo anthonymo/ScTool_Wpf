@@ -12,7 +12,7 @@ We currently just depployed the API for testnet. The server is for developerment
 We use the client/server design because there ae many requests for a Web development tools.
 The API are all ready for the web development tools.
 
-## 功能
+## Features
 
 This tools have two features
 
@@ -48,8 +48,8 @@ And of course Notify Log.
 In fact you can use this tool to develop feature crawler, collect the unkown from NEO Blockchain.
 We can accuratly examine every transaction based on the real time execution of transactions.
 
-How to use
-## 使用方法
+
+## How to use
 
 Compiler: write code -> build script
 
