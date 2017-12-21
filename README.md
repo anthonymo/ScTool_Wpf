@@ -29,7 +29,7 @@ This compiler use remote api, we can develop a web tool to compile c# code.
 
 We have developed a sample.
 
-We will eventually develop a complete web development tools.
+We will eventually develop a complete web development tools for oNO smart contract.
 
 2. Smart Contract debugging tool
 
