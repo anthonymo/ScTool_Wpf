@@ -7,7 +7,7 @@ One module is called RemoteSharpContractBuilder which temporarily embedded in th
 
 Another server module is neo cli node which temporarily embedded in the neo-gui-nel project
 
-We currently just depployed the API for testnet. The server is for developerment and will change quite frequent, we recommend you deploy your own server if you like the tools.
+We currently just deployed the API for testnet. The server is for developerment and will change quite frequent, we recommend you deploy your own server if you like the tools.
 
 We use the client/server design because there ae many requests for a Web development tools.
 The API are all ready for the web development tools.
